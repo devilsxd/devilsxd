@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=avezy&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=devilsxd&color=dc143c"/>
 </div>
 
 <div align="center">
